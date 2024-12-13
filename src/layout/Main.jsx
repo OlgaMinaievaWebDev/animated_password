@@ -5,6 +5,7 @@ function Main() {
     <div>
       <Link to="/password">Password</Link>
       <Link to="/movie">Movie</Link>
+      <Link to="/textArea">TextArea</Link>
     </div>
   );
 }
