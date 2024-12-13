@@ -31,6 +31,12 @@ function Home() {
         >
           Character Counter
         </Link>
+        <Link
+          to="/clipboard"
+          className="bg-yellow-500 text-white px-6 py-3 rounded shadow hover:bg-red-600"
+        >
+          Copy to Clipboard
+        </Link>
       </div>
     </div>
   );
